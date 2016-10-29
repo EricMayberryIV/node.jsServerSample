@@ -1,0 +1,10 @@
+{
+  "name" : "testapp",
+  "version" : "0.0.1",
+  "description" : "Demo",
+  "main" : "server.js",
+  "author" : {
+    "name" : "Eric A. Mayberry IV",
+    "email" : "eric1.mayberry@famu.edu"
+  }
+}
